@@ -8,5 +8,4 @@ export function verificarListaVazia(lista) {
         mensagemListaVazia.style.display = "none";
     }
 
-    console.log("test")
 }
